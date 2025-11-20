@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>ESP32 Global Control</title>
